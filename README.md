@@ -1,5 +1,5 @@
 # quran_kirundi_data_collection
-<img src="https://github.com/user-attachments/assets/34ea18f6-908f-4ac8-b3cf-9f962456ebb8" style="height:500px; width:200px"/>
+<img src="https://github.com/user-attachments/assets/34ea18f6-908f-4ac8-b3cf-9f962456ebb8" style="height:400px; width:200px"/>
 
 
 
