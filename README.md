@@ -2,7 +2,6 @@
 <img src="https://github.com/user-attachments/assets/34ea18f6-908f-4ac8-b3cf-9f962456ebb8" style="height:400px; width:200px"/>
 
 
-
 This is a repository for the data collection of the Quran Kirundi Mobile app.
 
 
@@ -28,6 +27,8 @@ For example:
             }
 
 The "kirundi" field should be the one to be pasting the meaning for the ayah respectively from the pdf File.
+
+!!!!!!!!!! I recommend you to download a VS extension called "JSON Tools", after pasting the kirundi in the respective field do "Ctrl+alt+M" it will help you structure well the text. Then make sure it is one line and not more than that. The extension may add /r or /n between texts please remove them. !!!!!!!!!
 
 Clone by using this url: https://github.com/abdoulsalamally/quran_kirundi_data_collection.git or download the zip file.
 Pull and push to the origin (main).
