@@ -1,7 +1,7 @@
 # quran_kirundi_data_collection
-<img src="https://github.com/user-attachments/assets/34ea18f6-908f-4ac8-b3cf-9f962456ebb8" style="height:300px; width:200px"/>
+<img src="https://github.com/user-attachments/assets/34ea18f6-908f-4ac8-b3cf-9f962456ebb8" style="height:500px; width:200px"/>
 
-<img src="https://github.com/user-attachments/assets/4114a14b-d9ae-48bd-947f-efd1bb644753" style="height:300px; width:200px"/>
+
 
 This is a repository for the data collection of the Quran Kirundi Mobile app.
 
