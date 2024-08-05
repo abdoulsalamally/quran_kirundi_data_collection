@@ -1,6 +1,5 @@
 # quran_kirundi_data_collection
-![home_ss](https://github.com/user-attachments/assets/4114a14b-d9ae-48bd-947f-efd1bb644753)
-![detail_surah_ss](https://github.com/user-attachments/assets/ebc10f58-f3ec-4c10-9521-b8f8972ef158)
+<img src="https://github.com/user-attachments/assets/4114a14b-d9ae-48bd-947f-efd1bb644753" />
 
 This is a repository for the data collection of the Quran Kirundi Mobile app.
 
