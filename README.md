@@ -25,9 +25,12 @@ For example:
               "kirundi":""
             }
 
-The "kirundi" field should be the one to be pasting the meaning for the ayah respectivelly from the pdf File. It doesn't exist yet so everyone should put it in place for the ayahs they will be working on.
+The "kirundi" field should be the one to be pasting the meaning for the ayah respectively from the pdf File. The field doesn't exist yet so everyone should put it in place for the ayahs they will be working on.
 
-========================================Please always push to the origin (main) whenever you have done translating.==========================================
+Clone by using this url: https://github.com/abdoulsalamally/quran_kirundi_data_collection.git or download the zip file.
+Pull and push to the origin (main).
+
+===============Please always push to the origin (main) whenever you have done translating.==========================
 
 Jazakallahu khairan!!!!!
 
