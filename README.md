@@ -17,11 +17,11 @@ For example:
               "text": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَٰتِ وَٱلنُّورَ ۖ ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
               "numberInSurah": 1,
               "juz": 7,
-              "kirundi": "Ishimagizwa ni iry’Imana Allah[1], Yo Yaremye amajuru n’isi n’ibiri muri vyo; Irema n’umuco utuma haba ikurakuranwa ry’ijoro n’umurango. Hamwe n’ivyo biranga 
+              "insiguro": "Ishimagizwa ni iry’Imana Allah[1], Yo Yaremye amajuru n’isi n’ibiri muri vyo; Irema n’umuco utuma haba ikurakuranwa ry’ijoro n’umurango. Hamwe n’ivyo biranga 
                          ubushobozi n’ububasha bw’Imana Allah, abagararije banganisha Imana Allah n’ibiremwa bakayibangikanya na vyo.", 
                          //Make sure it is one line otherwise it will show errors
               "page": 128,
-              "ruku": 102,
+              "insiguro_amajambo": 102,
               "hizbQuarter": 51,
               "sajda": false
             }
