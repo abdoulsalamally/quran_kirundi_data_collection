@@ -27,7 +27,7 @@ For example:
             }
 
 The "insiguro" field should be the one to be pasting the meaning for the ayah respectively from the pdf File.
-The "insiguro_amajambo" field should be the one to be pasting the deep explanation of hard/difficult words given in the footer from the pdf File but make sure you include it in the ayah where there is a sign like [1] or [2] etc. respectively to improve readability in the mobile app. Consult the example above.
+The "insiguro_amajambo" field should be the one to be pasting the deep explanation of hard/difficult words given in the footer from the pdf File but make sure you include it in the ayah where there is a sign like [1] or [2] etc. respectively to improve readability in the mobile app. Consult the example given above.
 
 
 !!!!!!!!!! I recommend you to download a VS code extension called "JSON Tools", after pasting the kirundi meaning in the respective field do "Ctrl+alt+M" it will help you structure well the text. Then make sure it is one line and not more than that. The extension may add /r or /n between texts please remove them and stay with one long line. !!!!!!!!!
