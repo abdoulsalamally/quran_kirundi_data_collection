@@ -17,18 +17,20 @@ For example:
               "text": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَٰتِ وَٱلنُّورَ ۖ ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
               "numberInSurah": 1,
               "juz": 7,
-              "kirundi": "Ishimagizwa ni iry’Imana Allah[1], Yo Yaremye amajuru n’isi n’ibiri muri vyo; Irema n’umuco utuma haba ikurakuranwa ry’ijoro n’umurango. Hamwe n’ivyo biranga 
+              "insiguro": "Ishimagizwa ni iry’Imana Allah[1], Yo Yaremye amajuru n’isi n’ibiri muri vyo; Irema n’umuco utuma haba ikurakuranwa ry’ijoro n’umurango. Hamwe n’ivyo biranga 
                          ubushobozi n’ububasha bw’Imana Allah, abagararije banganisha Imana Allah n’ibiremwa bakayibangikanya na vyo.", 
                          //Make sure it is one line otherwise it will show errors
               "page": 128,
-              "ruku": 102,
+              "insiguro_amajambo": "[1] Imana Allah, ni Yo Ikwiye gushimwa ku nema zayo z’ubwoko bwose, iziboneka n’izitaboneka, izishingiye ku kwemera n’izishingiye ku kubeshaho ibiremwa vyose. Kubera ivyo rero, nta kintu na kimwe gikwiye gusengwa hamwe na Yo canke mu gishingo cayo.", //Make sure it is one line otherwise it will show errors
               "hizbQuarter": 51,
               "sajda": false
             }
 
-The "kirundi" field should be the one to be pasting the meaning for the ayah respectively from the pdf File.
+The "insiguro" field should be the one to be pasting the meaning for the ayah respectively from the pdf File.
+The "insiguro_amajambo" field should be the one to be pasting the deep explanation of hard/difficult words given in the footer from the pdf File but make sure you include it in the ayah where there is a sign like [1] or [2] etc. respectively to improve readability in the mobile app. Consult the example above.
 
-!!!!!!!!!! I recommend you to download a VS extension called "JSON Tools", after pasting the kirundi in the respective field do "Ctrl+alt+M" it will help you structure well the text. Then make sure it is one line and not more than that. The extension may add /r or /n between texts please remove them. !!!!!!!!!
+
+!!!!!!!!!! I recommend you to download a VS code extension called "JSON Tools", after pasting the kirundi meaning in the respective field do "Ctrl+alt+M" it will help you structure well the text. Then make sure it is one line and not more than that. The extension may add /r or /n between texts please remove them and stay with one long line. !!!!!!!!!
 
 Clone by using this url: https://github.com/abdoulsalamally/quran_kirundi_data_collection.git or download the zip file.
 Pull and push to the origin (main).
